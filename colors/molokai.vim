@@ -104,7 +104,7 @@ hi Underlined      guifg=#808080               gui=underline
 
 hi VertSplit       guifg=#808080 guibg=#080808 gui=bold
 hi VisualNOS                     guibg=#403D3D
-hi Visual                        guibg=#403D3D
+hi Visual                        guibg=#696464
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
 hi WildMenu        guifg=#66D9EF guibg=#000000
 
@@ -124,7 +124,7 @@ if s:molokai_original == 1
 else
    hi Normal          guifg=#F8F8F2 guibg=#1B1D1E
    hi Comment         guifg=#7E8E91
-   hi CursorLine                    guibg=#293739
+   hi CursorLine                    guibg=#3c4a4d
    hi CursorLineNr    guifg=#FD971F               gui=none
    hi CursorColumn                  guibg=#293739
    hi ColorColumn                   guibg=#232526
